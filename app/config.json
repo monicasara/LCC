@@ -1,0 +1,8 @@
+{
+  "serviceName": "Large and Complex Cases",
+  "plugins": {
+    "govuk-frontend": {
+      "rebrand": true
+    }
+  }
+}
